@@ -16,3 +16,6 @@ python3 -r requirments.txt
 python3 stats2.py 
 or 
 release stats2
+
+## Show 
+![image](https://github.com/Startr4ck/findip/blob/master/show.gif)   
