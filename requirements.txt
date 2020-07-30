@@ -1,0 +1,6 @@
+shodan==1.23.0
+mmh3==2.5.1
+requests==2.22.0
+censys==0.0.8
+dnspython==2.0.0
+PySide2==5.15.0
