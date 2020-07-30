@@ -12,5 +12,7 @@ In realworld pentest .We need to know the real ip address behind CDN protect so 
 git clone https://github.com/Startr4ck/findip.git
 python3 -r requirments.txt 
 ```
-
-
+## Usage
+python3 stats2.py 
+or 
+release stats2
