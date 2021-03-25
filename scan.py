@@ -1,4 +1,4 @@
-from config import shodan_api
+# from config import shodan_api
 
 
 def get_resp_len(url):

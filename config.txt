@@ -1,0 +1,5 @@
+   { shodan_api :'test',
+    securitytrail_key : 'test',
+    censys_uid :'test',
+    censys_secret :'test'
+    }
